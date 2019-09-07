@@ -39,7 +39,17 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/eureka3000/src/main/java/com/luban/AppEureka3000.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -55,6 +65,7 @@
       <find>lub</find>
       <find>需要</find>
       <find>商鞅</find>
+      <find>鲁班</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -74,7 +85,6 @@
         <option value="$PROJECT_DIR$/config-server/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/config-server/pom.xml" />
         <option value="$PROJECT_DIR$/config-server1/pom.xml" />
-        <option value="$PROJECT_DIR$/config-server1/src/main/java/com/AppConfigServer1.java" />
         <option value="$PROJECT_DIR$/config-server1/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/test-config-client/pom.xml" />
         <option value="$PROJECT_DIR$/test-config-client/src/main/java/com/AppConfigClient.java" />
@@ -118,6 +128,7 @@
         <option value="$PROJECT_DIR$/zuul9001/src/main/java/com/luban/provider/FallBackProvider.java" />
         <option value="$PROJECT_DIR$/user/src/main/java/com/luban/controller/UserController.java" />
         <option value="$PROJECT_DIR$/config-server/src/main/java/com/AppConfigServer.java" />
+        <option value="$PROJECT_DIR$/config-server1/src/main/java/com/AppConfigServer1.java" />
       </list>
     </option>
   </component>
@@ -213,7 +224,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="226" />
     <option name="y" value="102" />
     <option name="width" value="1425" />
@@ -573,6 +584,51 @@
             <path>
               <item name="test-cloud-public" type="b2602c69:ProjectViewProjectNode" />
               <item name="test-cloud-public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-cloud-public" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-cloud-public" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka3000" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-cloud-public" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-cloud-public" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka3000" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-cloud-public" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-cloud-public" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka3000" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-cloud-public" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-cloud-public" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka3000" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-cloud-public" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-cloud-public" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka3000" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-cloud-public" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-cloud-public" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka3000" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="luban" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test-cloud-public" type="b2602c69:ProjectViewProjectNode" />
@@ -985,7 +1041,6 @@
     <entry file="file://$PROJECT_DIR$/user/pom.xml" />
     <entry file="file://$PROJECT_DIR$/power/pom.xml" />
     <entry file="file://$PROJECT_DIR$/user/src/main/java/com/luban/controller/UserController.java" />
-    <entry file="file://$PROJECT_DIR$/eureka3000/src/main/java/com/luban/AppEureka3000.java" />
     <entry file="file://$PROJECT_DIR$/config-server/src/main/java/com/AppConfigServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -1011,6 +1066,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka3000/src/main/java/com/luban/AppEureka3000.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>

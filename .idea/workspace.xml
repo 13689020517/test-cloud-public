@@ -35,7 +35,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/order/src/main/java/com/AppOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -568,6 +578,46 @@
               <item name="test-cloud-public" type="b2602c69:ProjectViewProjectNode" />
               <item name="test-cloud-public" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="test-cloud-public" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-cloud-public" type="462c0819:PsiDirectoryNode" />
+              <item name="config-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-cloud-public" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-cloud-public" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-cloud-public" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-cloud-public" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-cloud-public" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-cloud-public" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-cloud-public" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-cloud-public" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-cloud-public" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-cloud-public" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -870,7 +920,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/zuul/pom.xml" />
     <entry file="file://$PROJECT_DIR$/zuul9002/src/main/java/com/luban/filter/LogFilter.java" />
     <entry file="file://$PROJECT_DIR$/zuul9002/src/main/java/com/luban/provider/FallBackProvider.java" />
     <entry file="file://$PROJECT_DIR$/zuul9001/pom.xml" />
@@ -924,7 +973,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="311">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -946,6 +994,13 @@
     <entry file="file://$PROJECT_DIR$/power/pom.xml" />
     <entry file="file://$PROJECT_DIR$/user/src/main/java/com/luban/controller/UserController.java" />
     <entry file="file://$PROJECT_DIR$/eureka3000/src/main/java/com/luban/AppEureka3000.java" />
+    <entry file="file://$PROJECT_DIR$/order/src/main/java/com/AppOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
